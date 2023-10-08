@@ -29,4 +29,13 @@ python freemeta.py
 ### Description
 This script was intended for automating the purchase process of a product on a website. It uses Selenium and Chrome WebDriver for headless browsing, fills in email and name fields, and completes the payment process by simulating keyboard input for card information, CVV, and zip code.
 
+### Usage
+1. Run the script.
+2. Enter the checkout password once dropped.
+3. The script will navigate to the product purchase page and attempt to complete the purchase process.
+
+### Example Usage
+```python
+python paidmeta.py
+```
 
